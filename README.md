@@ -1,4 +1,4 @@
-# php-extensions
+# php-exceptions
 
 This PHP library aims to give you a list of general usage PHP exceptions for your projects. 
 
