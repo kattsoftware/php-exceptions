@@ -1,0 +1,12 @@
+{
+    "name": "kattsoftware/php-exceptions",
+    "description": "General usage PHP exceptions for your projects",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "require": {
+        "php": ">=5.3"
+    }
+}
